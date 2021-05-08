@@ -1,1 +1,1 @@
-new-azresourcegroup -name "scriptrg" -location "Eastus"
+new-azresourcegroup -name "BuildreleasePipelinerg" -location "westus"
